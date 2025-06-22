@@ -1,6 +1,6 @@
 - 1 Years Work Experience for Global Payments
 - Computer Science First Class Honours Graduate/Deans List student
-- Langauges - C#, C++, JavaScript, Python, SQL, Java
+- Langauges - C#, C++, JavaScript, Python, SQL, Java, PHP
 
 - How to reach me : eledgewood2001@gmail.com.
 
