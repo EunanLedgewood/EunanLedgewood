@@ -1,4 +1,5 @@
-- 1 Years Work Experience for Global Payments
+- 1 Year Software Engineer for Global Payments
+- Currently working for Totalmobile (Software Engineer)
 - Computer Science First Class Honours Graduate/Deans List student
 - Langauges - C#, C++, JavaScript, Python, SQL, Java, PHP
 
